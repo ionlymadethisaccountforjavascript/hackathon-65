@@ -1,3 +1,3 @@
 # hackathon-65
 
-my hackathon project
+A voice assistant that is called Quick.
